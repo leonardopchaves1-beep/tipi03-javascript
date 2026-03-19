@@ -6,8 +6,8 @@ console.log(numero1 > numero2);
 
 const numero3 = 18;
 const numero4 = 18;
-console.log (numero3 >= numero4);
-console.log (numero3 <= numero4);
+console.log(numero3 >= numero4);
+console.log(numero3 <= numero4);
 
 //comparação de igualdade
 const a = 1;
